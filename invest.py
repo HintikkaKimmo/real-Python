@@ -8,4 +8,4 @@ def invest(amount, rate, time):
 
 
 invest(100, 0.05, 8)
-# invest(2000, 0.025, 5)
+invest(2000, 0.025, 5)
